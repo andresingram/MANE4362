@@ -6,4 +6,4 @@ This poster presentation was part of my Senior Design II university course. It h
 
 Please refer to the photo below to see where to click:
 
-<img src="https://github.com/user-attachments/assets/0ea1e623-9819-4bd6-8d41-92960255e7f4" alt="image" width="500"/>
+
