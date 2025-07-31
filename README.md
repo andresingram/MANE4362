@@ -1,4 +1,4 @@
-# MANE4362
+# MANE-4362
 
 ## Final Project Poster for Senior Design 2 (MANE-4362)
 
