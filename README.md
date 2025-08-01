@@ -1,5 +1,6 @@
 # University of Texas Rio Grande Valley - Edinburg
 College of Engineering and Computer Science
+
 Department of Manufacturing and Industrial Engineering
 
 ### Bachelor’s Capstone Project – Senior Design II Project Poster
