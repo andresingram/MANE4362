@@ -1,4 +1,4 @@
-# University of Texas Rio Grande Valley - Edinburg
+# University of Texas Rio Grande Valley - College of Engineering and Computer Science - Dept. of Manufacturing and Industrial Engineering
 College of Engineering and Computer Science
 
 Department of Manufacturing and Industrial Engineering
